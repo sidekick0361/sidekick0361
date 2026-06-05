@@ -10,7 +10,7 @@
 
 I build production-ready software that combines clean full-stack engineering with practical AI, automation, backend architecture, and cloud deployment.
 
-[![GitHub](https://img.shields.io/badge/GitHub-dev0361-181717?style=flat&logo=github)](https://github.com/dev0361)
+[![GitHub](https://img.shields.io/badge/GitHub-sidekick0361-181717?style=flat&logo=github)](https://github.com/sidekick0361)
 ![AI Full-Stack Developer](https://img.shields.io/badge/AI%20Full--Stack%20Developer-0F172A?style=flat)
 ![Open to Projects](https://img.shields.io/badge/Open%20to-AI%20%26%20SaaS%20Projects-2563EB?style=flat)
 
@@ -166,7 +166,7 @@ You can explore my repositories to see current projects, technical experiments, 
 
 I am open to projects involving **AI applications, SaaS platforms, backend systems, CRM automation, web applications, mobile apps, and cloud deployment**.
 
-- GitHub: [dev0361](https://github.com/dev0361)
+- GitHub: [sidekick0361](https://github.com/sidekick0361)
 
 ---
 
